@@ -14,4 +14,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Aplicativo online
-URL: (adicionar depois do deploy no Render)
+URL: https://sprint5-vn1s.onrender.com)
